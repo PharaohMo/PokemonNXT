@@ -53,6 +53,7 @@
      <Compile Include="Assets\Effects\2DAnimation\Billboard.cs" />
      <Compile Include="Assets\Effects\CinematicEffect.cs" />
      <Compile Include="Assets\Objects\PokeCenter.cs" />
+     <Compile Include="Assets\Player\CameraControl.cs" />
      <Compile Include="Assets\Player\Dialog.cs" />
      <Compile Include="Assets\Player\GUImgr.cs" />
      <Compile Include="Assets\Player\GameGUI.cs" />
