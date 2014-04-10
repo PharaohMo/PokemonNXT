@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{B1C9D16F-F412-7DEC-74A7-E42AF5FFCAD3}") = "PokemonNXT", "Assembly-CSharp-vs.csproj", "{BCA7E2B2-2C3A-B165-C14D-7943B2A3DB9D}"
 EndProject
+Project("{B1C9D16F-F412-7DEC-74A7-E42AF5FFCAD3}") = "PokemonNXT", "Assembly-CSharp-Editor-vs.csproj", "{9C9EF01F-5A90-488A-65CB-B62B6D0EA344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,15 @@ Global
 		{BCA7E2B2-2C3A-B165-C14D-7943B2A3DB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA7E2B2-2C3A-B165-C14D-7943B2A3DB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA7E2B2-2C3A-B165-C14D-7943B2A3DB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9EF01F-5A90-488A-65CB-B62B6D0EA344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9EF01F-5A90-488A-65CB-B62B6D0EA344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9EF01F-5A90-488A-65CB-B62B6D0EA344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9EF01F-5A90-488A-65CB-B62B6D0EA344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																												GlobalSection(MonoDevelopProperties) = preSolution
+																																														GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
